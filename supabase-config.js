@@ -3,5 +3,5 @@
 // Do NOT use a service_role key or any database password here.
 window.BIOCHEM_SUPABASE = {
   url: '', // e.g. https://xxxxxxxx.supabase.co
-  anonKey: '' // public/publishable key only
+  anonKey: 'sb_publishable_YbxoFOww2afKpMyBPG0EyA_CfC9wlCe' // public/publishable key only
 };
